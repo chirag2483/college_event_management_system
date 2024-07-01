@@ -1,0 +1,1 @@
+{"name":"Local: suvee","url":"f:\\new\\htdocs\\College-Event-Management-System-master\\classes\\suvee.cpp","tests":[{"id":1714914486703,"input":"8 2\n4 4 6 2 1 6 4 2","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\new\\htdocs\\College-Event-Management-System-master\\classes\\suvee.cpp","group":"local","local":true}
